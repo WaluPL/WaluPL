@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and Java.
+- 🌱 I’m currently learning C# && Java.
 - 📫 How to reach me: michal.walu.walkiewicz@gmail.com
 
 <!---
